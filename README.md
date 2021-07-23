@@ -1,13 +1,13 @@
 ### Hey Bro. 👋
 
-- 💰 : ZhenFund investment Associate
-- 💻 : Juejin.im CTO 
-- 🎓 : Beijing Normal University
+- 💰 : [ZhenFund](https://www.zhenfund.com) investment Associate
+- 💻 : [Juejin.im](https://www.bnu.edu.cn/) CTO 
+- 🎓 : [Beijing Normal University](https://www.bnu.edu.cn/)
 
 ----
 ### Investment Portfolio
 
-[D-Matrix](http://www.di-matrix.com/)  |   [Maxtropy](http://www.maxtropy.com/)  | [Showmebug](https://www.showmebug.com/)  | [元気森林](https://www.yuanqisenlin.com/)
+[D-Matrix](http://www.di-matrix.com/)  |   [Maxtropy](http://www.maxtropy.com/)  | [Showmebug](https://www.showmebug.com/)  | [元気森林](https://www.yuanqisenlin.com/) | Cyber Kunlun  |  AYoxi Tech
 
 ### Code Stats
 
