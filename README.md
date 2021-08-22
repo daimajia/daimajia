@@ -38,6 +38,5 @@ daimajia@gmail.com
 
 My lovely daugther. ❤️
 
-
-![图片](https://user-images.githubusercontent.com/2503423/126734186-fc763301-759b-4387-952c-3adcace46fff.png)
+![图片](https://user-images.githubusercontent.com/2503423/130353403-4b8a7576-8aed-46aa-8648-c261a57d8728.png)
 
