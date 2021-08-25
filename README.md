@@ -40,3 +40,5 @@ My lovely daugther. ❤️
 
 ![图片](https://user-images.githubusercontent.com/2503423/130353403-4b8a7576-8aed-46aa-8648-c261a57d8728.png)
 
+Leave a message to me? --> https://github.com/daimajia/daimajia/issues
+
