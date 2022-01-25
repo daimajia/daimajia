@@ -1,6 +1,6 @@
 ### Hey Bro. 👋
 
-- 💰 : [ZhenFund](https://www.zhenfund.com) investment Associate
+- 💰 : [ZhenFund](https://www.zhenfund.com) VP
 - 💻 : [Juejin.im](https://juejin.im/) CTO 
 - 🎓 : [Beijing Normal University](https://www.bnu.edu.cn/)
 
