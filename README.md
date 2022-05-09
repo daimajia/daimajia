@@ -28,8 +28,8 @@
 
 ### Social
 
-- 🥸 : [twitter.com/daimajia](twitter.com/daimajia)
-- 👻 : [daimajia.com](daimajia.com)
+- 🥸 : [twitter.com/daimajia](https://twitter.com/daimajia)
+- 👻 : [daimajia.com](https://daimajia.com)
 
 ----
 
