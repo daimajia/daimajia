@@ -8,9 +8,6 @@
 ----
 
 ### Products
-
-- [Sumability](https://www.sumability.com): Let AI read everything for you.
-
   
 ![64](https://user-images.githubusercontent.com/2503423/130353170-fc6a8a8a-38df-4711-aafa-e0c98646f822.png)
 
