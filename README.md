@@ -13,6 +13,11 @@
 
 - [TickerPad](https://tickerpad.app): a
  macOS app which helps you track your favorite crypto price via macOS menu bar. 
+
+- [HuntScreens](https://huntscreens.com): VisuallyDiscover Latest Products and Startups!
+
+![shotEasy](https://github.com/user-attachments/assets/f834a0b5-7001-4a70-8a4a-51eeaf03e48b)
+
 ### Investment Portfolio
 
 [D-Matrix](http://www.di-matrix.com/)  |   [Maxtropy](http://www.maxtropy.com/)  | [Showmebug](https://www.showmebug.com/)  | [元気森林](https://www.yuanqisenlin.com/) | [Cyber Kunlun](https://www.cyberkl.com/)  |  AYoxi Tech | [Conflux](https://confluxnetwork.org/) | [Nervos](https://www.nervos.org) | [Cobo Wallet](https://cobo.com/) | [SilverHand](https://logto.io/) |  [Overide Halo](https://mp.weixin.qq.com/s/Vfo_hxX71UmSmUhC-JDxUw)
