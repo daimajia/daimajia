@@ -12,7 +12,9 @@
 ![64](https://user-images.githubusercontent.com/2503423/130353170-fc6a8a8a-38df-4711-aafa-e0c98646f822.png)
 
 - [TickerPad](https://tickerpad.app): a
- macOS app which helps you track your favorite crypto price via macOS menu bar. 
+ macOS app which helps you track your favorite crypto price via macOS menu bar.
+
+- [HappyKidsColoring](https://happykidscoloring.com): Print, Color, Create - Free Coloring Pages for kids.
 
 - [HuntScreens](https://huntscreens.com): VisuallyDiscover Latest Products and Startups!
 
@@ -25,10 +27,6 @@
 ### Code Stats
 
 ![daimajia's github stats](https://github-readme-stats.vercel.app/api?username=daimajia&show_icons=true&theme=dracula)
-
-### Trading Story
-
-[Magic Trader](https://www.youtube.com/channel/UCkRc4Cyv0DZecuLjARwP3Gw)
 
 ---- 
 
