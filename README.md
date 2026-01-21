@@ -16,6 +16,8 @@
 
 - [HappyKidsColoring](https://happykidscoloring.com): Print, Color, Create - Free Coloring Pages for kids.
 
+- [Calquio](https://calquio.com/): Professional calculators for your daily life.
+
 - [HuntScreens](https://huntscreens.com): VisuallyDiscover Latest Products and Startups!
 
 ![shotEasy](https://github.com/user-attachments/assets/f834a0b5-7001-4a70-8a4a-51eeaf03e48b)
